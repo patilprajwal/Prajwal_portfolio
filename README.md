@@ -8,7 +8,7 @@ Project Detail Portfolio
 4. Visualization of model training is done using tfvis.show() TensorFlow function.
 5. CNN model is trained on the MNIST dataset.
 
-![](https://github.com/patilprajwal/Prajwal_portfolio/blob/master/Images/Two_digit.png)
+![](/Images/Two_digit.png)
 
 
 # [Project 2: BSE Closure Anomaly Detection](https://github.com/patilprajwal/BSE-closure-anomaly-detection)
@@ -17,6 +17,6 @@ Project Detail Portfolio
 2. Detect anomalies with Autoencoders in time series data
 3. Interactive charts and plots using Plotly Python and Seaborn for data visualization.'
 
-![](https://github.com/patilprajwal/Prajwal_portfolio/blob/master/Images/outlier%201.jpg)
+![](/Images/outlier%201.jpg)
 
-![](https://github.com/patilprajwal/Prajwal_portfolio/blob/master/Images/outlier.jpg)
+![](/Images/outlier.jpg)

@@ -7,4 +7,9 @@ Project Detail Portfolio
 3. To optimize the pretraining time data is loaded in the form of Sprit Sheet.
 4. Visualization of model training is done using tfvis.show() TensorFlow function.
 5. CNN model is trained on the MNIST dataset.
+# [Project 2: BSE Closure Anomaly Detection](https://github.com/patilprajwal/BSE-closure-anomaly-detection)
+1. Detect Outliers in the BSE Index Data 1991-2019
+2. Build an LSTM Autoencoder in Keras
+2. Detect anomalies with Autoencoders in time series data
+3. Interactive charts and plots using Plotly Python and Seaborn for data visualization.'
 

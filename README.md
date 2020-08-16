@@ -1,5 +1,6 @@
 # Prajwal_portfolio
-Project Detail Portfolio
+
+## Project Detail Portfolio
 
 # [Project 1: Learn Two-Digit Number](https://github.com/patilprajwal/Two_digit_number.github.io)
 1. Create a web application to draw a two-digit number and learn what it is. 
@@ -20,3 +21,13 @@ Project Detail Portfolio
 ![](/Images/outlier%201.jpg)
 
 ![](/Images/outlier.jpg)
+
+
+
+
+
+
+
+
+
+https://patilprajwal.github.io/Prajwal_portfolio/

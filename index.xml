@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prajwal Rajendra on Prajwal_p3</title>
+    <link>https://patilprajwal.github.io/Prajwal_portfolio/</link>
+    <description>Recent content in Prajwal Rajendra on Prajwal_p3</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jul 2020 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://patilprajwal.github.io/Prajwal_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 2: BSE Closure Anomaly Detection</title>
+      <link>https://patilprajwal.github.io/Prajwal_portfolio/post/project-2/</link>
+      <pubDate>Mon, 20 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://patilprajwal.github.io/Prajwal_portfolio/post/project-2/</guid>
+      <description>Detect Outliers in the BSE Index Data 1991-2019 Build an LSTM Autoencoder in Keras Detect anomalies with Autoencoders in time series data Interactive charts and plots using Plotly Python and Seaborn for data visualization.    Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Learn Two Digit Numbers</title>
+      <link>https://patilprajwal.github.io/Prajwal_portfolio/post/project-1/</link>
+      <pubDate>Fri, 10 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://patilprajwal.github.io/Prajwal_portfolio/post/project-1/</guid>
+      <description>Create a web application to draw a two-digit number and learn what it is. Train the model locally on the browser. To optimize the pretraining time data is loaded in the form of Sprite Sheet. Visualization of model training is done using tfvis.show() TensorFlow function. CNN model is trained on the MNIST dataset.    Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://patilprajwal.github.io/Prajwal_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://patilprajwal.github.io/Prajwal_portfolio/contact/</guid>
+      <description>If you have any project idea in Machine Learning, want to suggest changes you can contact me on following media:
+   Platform URL     Github: https://github.com/patilprajwal   Twitter: https://twitter.com/prajwal_p3   Linkedin: https://www.linkedin.com/in/prajwal-pohekar-8b2331170/   Codechef: https://www.codechef.com/users/hii_me#   Hackerrank: https://www.hackerrank.com/hufun?hr_r=1   Codeforces: https://codeforces.com/profile/P_3   Gmail: prpohekar@gmail.com    </description>
+    </item>
+    
+  </channel>
+</rss>
